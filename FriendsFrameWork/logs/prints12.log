@@ -1,0 +1,4 @@
+14:49:37.035 [main] DEBUG scripts.TestValidLogin - Creating an object of LoginPage pom class
+14:49:37.079 [main] INFO  scripts.TestValidLogin - Object is created successfully
+14:49:37.080 [main] DEBUG scripts.TestValidLogin - Fetching username from excel file
+14:49:37.749 [main] INFO  scripts.TestValidLogin - username is successfully fetched
